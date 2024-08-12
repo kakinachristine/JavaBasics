@@ -1,4 +1,4 @@
-package OOPPrinciples;
+package OOPPrinciples.Encapsulation;
 
 public class Car {
     private String model;

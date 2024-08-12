@@ -1,6 +1,6 @@
-package OOPPrinciples;
+package OOPPrinciples.Encapsulation;
 
-//Encapsulation is the concept of bundling data (variables) and methods (functions)
+//OOPPrinciples.Encapsulation.Encapsulation is the concept of bundling data (variables) and methods (functions)
 // that operate on the data into a single unit or class.
 
 //NB: each public class must be declared in its own file
